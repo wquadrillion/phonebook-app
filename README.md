@@ -9,7 +9,7 @@ Make sure to have `node.js >=16.13.x` installed on your machine.
 - Clone the repository by running the command
 
   ```[bash]
-  git clone https://github.com/wquadrillion/serenbot
+  git clone https://github.com/wquadrillion/phonebook-app
   ```
 
 - `npm install` to install the dependencies
