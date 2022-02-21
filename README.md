@@ -4,7 +4,7 @@ You can add, delete or search contacts.
 
 ## Setup
 
-Make sure to have `node.js >=16.13.x` installed on your machine.
+Make sure to have `node` installed on your machine.
 
 - Clone the repository by running the command
 
